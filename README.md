@@ -1,2 +1,2 @@
-I'm a Front End Web Developer with a passion of creating impactful and scalable web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me!
 ![frontend_text_2](https://github.com/Snehsid/Snehasid/assets/105958090/3a82c72e-b6d9-46ba-8c6f-e980c5ea45a8)
+I'm a Front End Web Developer with a passion of creating impactful and scalable web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.
